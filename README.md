@@ -4,3 +4,11 @@
 ### Par fantāzijas līgu
 NBA fantāzijas līga ir virtuāla sacensības, kur dalībnieki veido komandas ar reāliem NBA spēlētajiem, iegūstot punktus atkarībā no to snieguma reālājās spēlēs.
 ## Izmantotas Python bibliotēkas
+### requests
+Šī bibliotēka tiek izmantota, lai veiktu HTTP pieprasījumus uz norādītajiem URL, lai iegūtu spēlētāju statiskitikas lapas HTML saturu.
+### BeautifulSoup
+Šī bibliotēka tiek izmantota, lai strukturēti un ērti atrastu nepieciešamos datus. 
+### pandas 
+Šī bibliotēka tiek izmantota, lai saglabātu datus izveidotajā Excel failā.
+### xlsxwriter
+Šī bibliotēka tiek izmantota, lai iegūtos datus varētu saglabāt atsevišķās Excel lapās.
