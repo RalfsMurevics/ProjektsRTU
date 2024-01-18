@@ -12,3 +12,6 @@ NBA fantāzijas līga ir virtuāla sacensības, kur dalībnieki veido komandas a
 Šī bibliotēka tiek izmantota, lai saglabātu datus izveidotajā Excel failā.
 ### xlsxwriter
 Šī bibliotēka tiek izmantota, lai iegūtos datus varētu saglabāt atsevišķās Excel lapās.
+## Programmatūras izmantošanas meodes
+Programma ir izveidota tā, ka tikka apkopots katra spēlētāja konkrēts URL, kurā tika atrasta konkrēta informācija un pēc tam apkopota Excel failā. 
+Programma
