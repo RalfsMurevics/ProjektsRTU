@@ -1,1 +1,2 @@
-# ProjektsRTU
+# Projekts 
+## Projekta uzdevums
